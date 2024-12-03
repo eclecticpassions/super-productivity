@@ -1,0 +1,116 @@
+{
+  "ANDROID": {
+    "NOTIFICATIONS": {
+      "SYNC_CONFLICT_TITLE": "發生了一個同步衝突。",
+      "SYNC_CONFLICT_MSG": "請檢查並決定該怎麼做。"
+    },
+    "PERMANENT_NOTIFICATION_MSGS": {
+      "NO_ACTIVE_TASKS": "目前沒有任務",
+      "SYNCING": "正在同步中"
+    }
+  },
+  "APP": {
+    "B_INSTALL": {
+      "IGNORE": "忽略",
+      "INSTALL": "安裝",
+      "MSG": "您要將 Super Productivity 安裝為漸進式網絡應用程式 (Web App) 嗎？"
+    },
+    "B_OFFLINE": "您與網路斷開連線。同步和數據詢問將無法運作。",
+    "UPDATE_MAIN_MODEL": "Super Productivity 應用程式已獲得重大更新！需要遷移您的資料。請注意，這會使您的資料與舊版本的應用程式不相容。",
+    "UPDATE_WEB_APP": "應用程式有新版本，載入新版本？"
+  },
+  "BL": {
+    "NO_TASKS": "目前您的待辦事項中沒有任務"
+  },
+  "DATETIME_SCHEDULE": {
+    "LATER_TODAY": "今天稍后",
+    "NEXT_WEEK": "下周",
+    "PLACEHOLDER": "請選擇日期",
+    "PRESS_ENTER_AGAIN": "再次按 Enter 儲存",
+    "TOMORROW": "明天"
+  },
+  "F": {
+    "ATTACHMENT": {
+      "DIALOG_EDIT": {
+        "LABELS": {
+          "IMG": "圖片",
+          "LINK": "網址"
+        },
+        "SELECT_TYPE": "請選擇類型"
+      }
+    },
+    "BOOKMARK": {
+      "BAR": {
+        "ADD": "新增書籤",
+        "EDIT": "編輯書籤"
+      },
+      "DIALOG_EDIT": {
+        "ADD_BOOKMARK": "新增書籤",
+        "EDIT_BOOKMARK": "編輯書籤",
+        "LABELS": {
+          "COMMAND": "命令"
+        },
+        "SELECT_ICON": "選擇一個圖標"
+      }
+    },
+    "CALDAV": {
+      "FORM": {
+        "CALDAV_USER": "您的 CalDav 用戶名"
+      },
+      "FORM_SECTION": {
+        "TITLE": "CalDav"
+      },
+      "ISSUE_CONTENT": {
+        "DESCRIPTION": "描述",
+        "LABELS": "分類",
+        "STATUS": "狀態",
+        "SUMMARY": "概括"
+      }
+    },
+    "PLANNER": {
+      "NO_TASKS": "沒有任務",
+      "D": {
+        "ADD_PLANNED": {
+          "ADD_TO_TODAY": "添加到今天"
+        }
+      },
+      "PLAN_VIEW": {
+        "NO_SCHEDULED_ITEMS": "沒有預定項目"
+      },
+      "TASK_DRAWER": "任務清單抽屜"
+    },
+    "POMODORO": {
+      "BACK_TO_WORK": "回去工作！",
+      "BREAK_IS_DONE": "休息時間結束了！",
+      "ENJOY_YOURSELF": "讓自己休息，起身活動一下，___ 分鐘後回來:",
+      "NOTIFICATION": {
+        "NO_TASKS": "您需要先新增任務，然後番茄鐘計時器才能啟動。"
+      },
+      "SKIP_BREAK": "跳過休息時間",
+      "START_BREAK": "開始休息時間"
+    },
+    "PROCRASTINATION": {
+      "BACK_TO_WORK": "繼續工作加油！",
+      "COMP": {
+        "INTRO": "拖延症嚴重的人通常自我同情心較低。所以要練習一下提高自我價值感，培養正向的情緒，幫助你克服拖延症。試試做：",
+        "L1": "坐下來，伸展一下身體，讓自己平靜下來"
+      },
+      "CUR": {
+        "PROCRASTINATION_TRIGGERS_TITLE": "寫下你拖延的誘因",
+        "PROCRASTINATION_TRIGGERS_TEXT": "另一個非常有效的方法是記錄什麼觸發了你拖延的衝動。例如，每當我的瀏覽器視窗成為焦點時，我經常衝動去Reddit 或我最喜歡的新聞網站。自從我開始在一個簡單的空白文字文件中寫下觸發因素後，我開始意識到這種模式是多麼根深蒂固，它幫助我嘗試了不同的對策。"
+      },
+      "H1": "給自己放輕鬆一點吧！",
+      "INTRO": {
+        "AVOIDING": "逃避任務",
+        "FEAR": "害怕失敗",
+        "STRESSED": "因無法完成任務而感到壓力",
+        "TITLE": "介紹"
+      }
+    },
+    "SYNC": {
+      "D_PERMISSION": {
+        "TITLE": "同步：本機檔案權限被拒絕"
+      }
+    }
+  }
+}

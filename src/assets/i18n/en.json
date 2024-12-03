@@ -22,7 +22,7 @@
     "UPDATE_WEB_APP": "New version available. Load New Version?"
   },
   "BL": {
-    "NO_TASKS": "There are currently no tasks in your backlog"
+    "NO_TASKS": "There are currently no tasks in your backlog."
   },
   "CONFIRM": {
     "AUTO_FIX": "Your data seems to be damaged (\"{{validityError}}\"). Do you want to try to automatically fix it? This might result in partial data loss.",

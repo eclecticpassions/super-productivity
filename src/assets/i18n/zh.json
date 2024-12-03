@@ -53,7 +53,7 @@
           "IMG": "图片",
           "LINK": "网址"
         },
-        "SELECT_TYPE": "选择一种类型",
+        "SELECT_TYPE": "请选择类型",
         "TYPES": {
           "FILE": "文件（打开系统默认应用程序）",
           "IMG": "图像（显示为缩略图）",
@@ -543,7 +543,8 @@
       "S": {
         "REMOVED_PLAN_DATE": "已移除任务 '{{taskTitle}}' 的计划日期",
         "TASK_PLANNED_FOR": "任务计划于 {{date}}"
-      }
+      },
+      "TASK_DRAWER": "任务清单抽屉"
     },
     "POMODORO": {
       "BACK_TO_WORK": "继续加油！",
@@ -561,8 +562,8 @@
         "SESSION_SKIP": "跳过当前番茄钟会话",
         "RESET": "终止番茄钟会话"
       },
-      "SKIP_BREAK": "跳过休息",
-      "START_BREAK": "开始休息"
+      "SKIP_BREAK": "跳过休息时间",
+      "START_BREAK": "开始休息时间"
     },
     "PROCRASTINATION": {
       "BACK_TO_WORK": "继续加油！",
@@ -582,7 +583,9 @@
         "L3": "拖延让你想起了什么？",
         "L4": "当你发现自己的拖延时，这个念头会发生什么变化？加剧？减弱？导致其他情绪出现？",
         "L5": "当你继续保持对它们的认识时，你身体的感觉如何变化？",
-        "TITLE": "好奇心"
+        "TITLE": "好奇心",
+        "PROCRASTINATION_TRIGGERS_TITLE": "写下你的拖延症诱因",
+        "PROCRASTINATION_TRIGGERS_TEXT": "另一个非常有效的方法是记录什么触发了你拖延的冲动。例如，每当我的浏览器视窗成为焦点时，我经常冲动去Reddit 或我最喜欢的新闻网站。自从我开始在一个简单的空白文字文件中写下触发因素后，我开始意识到这种模式是多么根深蒂固，它帮助我尝试了不同的对策。"
       },
       "H1": "减少松懈！",
       "INTRO": {
@@ -730,6 +733,9 @@
         "TITLE": "Dropbox：冲突数据",
         "USE_LOCAL": "使用本地",
         "USE_REMOTE": "使用远程"
+      },
+      "D_PERMISSION": {
+        "TITLE": "同步：本地文件权限被拒绝"
       },
       "FORM": {
         "DROPBOX": {

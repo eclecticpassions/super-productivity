@@ -1054,7 +1054,6 @@
         "FOR_OTHER": "La tâche est due. Voulez-vous commencer à travailler dessus ?",
         "FROM_PROJECT": "Depuis le projet",
         "FROM_TAG": "Depuis la balise: \"{{title}}\"",
-
         "RESCHEDULE_UNTIL_TOMORROW": "Jusqu'à demain",
         "SNOOZE": "Snooze",
         "SNOOZE_ALL": "Répéter tout",
